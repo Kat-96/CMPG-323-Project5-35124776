@@ -19,6 +19,11 @@
 ![High-Level-Metrics](https://user-images.githubusercontent.com/90704811/200970637-8fc8e80c-3a36-458a-99a3-6cbfc654e07d.png)
 
 # Device Monitoring
+In this page(report), the user can:
+
+      * monitor devices per category
+      * monitor devices per zone
+      * monitor online versus offline devices (status should depict whether a device is online or offline)
 
 ![Device-Monitoring](https://user-images.githubusercontent.com/90704811/200970890-9a5d100e-c7ff-4c63-8d39-6dbd7cf9ac81.png)
 
