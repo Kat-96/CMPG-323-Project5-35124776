@@ -28,6 +28,12 @@ In this page(report), the user can:
 ![Device-Monitoring](https://user-images.githubusercontent.com/90704811/200970890-9a5d100e-c7ff-4c63-8d39-6dbd7cf9ac81.png)
 
 # Device Registration
+In this page(report), the user can use the visuals to view: 
+      
+      * how many devices have been registered over a timespan
+      * how many categories of devices have been created
+      * how many zones contain registered devices on a timeline
+
 
 ![Device Registration](https://user-images.githubusercontent.com/90704811/200971159-01352232-cf17-48c7-883d-02743bf1c1bb.png)
 
