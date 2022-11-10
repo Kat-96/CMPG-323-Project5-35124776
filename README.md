@@ -25,3 +25,17 @@
 # Device Registration
 
 ![Device Registration](https://user-images.githubusercontent.com/90704811/200971159-01352232-cf17-48c7-883d-02743bf1c1bb.png)
+
+# Filtering
+
+I also made use of filters that can be applied across pages and visuals
+The filtering can be used to:
+
+      * filter the report based on device category
+      * filter the report based on device platform
+      * filter the report based on device zone
+      *  filter the report based on device registration date
+
+![Filter](https://user-images.githubusercontent.com/90704811/200971867-ef2f3178-b713-42e2-815e-f89302b0440b.png)
+
+
